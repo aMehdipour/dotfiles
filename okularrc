@@ -1,0 +1,40 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+2 screens: Height=1437
+2 screens: Width=1305
+2 screens: XPosition=1321
+2 screens: YPosition=36
+DP-0 DP-2=DP-2
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAAFePwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAAlAAAFeAAAAO8A///+AAAEuQAABXgAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/repos/MastersProject/Literature/Novel_guidance_model_and_its_application_for_optimal_reentry_guidance.pdf
+File2[$e]=$HOME/Downloads/Pseudo-Control Hedging: A New Method For Adaptive Control.pdf
+File3[$e]=$HOME/repos/MastersProject/Literature/references_Joshua/AIAA_Scitech_Manuscript_Joshua_Stokes.pdf
+File4[$e]=$HOME/Downloads/Lombaerts.pdf
+File5[$e]=$HOME/repos/MastersProject/Literature/references_Joshua/Reentry/Hypersonic_and_planetary_entry_flight_me.pdf
+File6[$e]=$HOME/repos/MastersProject/Literature/Control_and_Simulation_of_a_Deployable_Entry_Vehicle.pdf
+File7[$e]=$HOME/repos/MastersProject/Literature/references_Joshua/AE_295_Master_s_Project_Report_(Final).pdf
+File8[$e]=$HOME/repos/MastersProject/Literature/references_Joshua/Reentry/aeroentrytech_5_dsouza_presid675_presslides_docid922.pdf
+File9[$e]=$HOME/Downloads/Milliken - Race Car Vehicle Dynamics.pdf
+Name1[$e]=Novel_guidance_model_and_its_application_for_optimal_reentry_guidance.pdf
+Name2[$e]=Pseudo-Control Hedging: A New Method For Adaptive Control.pdf
+Name3[$e]=AIAA_Scitech_Manuscript_Joshua_Stokes.pdf
+Name4[$e]=Lombaerts.pdf
+Name5[$e]=Hypersonic_and_planetary_entry_flight_me.pdf
+Name6[$e]=Control_and_Simulation_of_a_Deployable_Entry_Vehicle.pdf
+Name7[$e]=AE_295_Master_s_Project_Report_(Final).pdf
+Name8[$e]=aeroentrytech_5_dsouza_presid675_presslides_docid922.pdf
+Name9[$e]=Milliken - Race Car Vehicle Dynamics.pdf
+
+[UiSettings]
+ColorScheme=Catppuccin Mocha

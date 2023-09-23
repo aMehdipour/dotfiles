@@ -1,0 +1,10 @@
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=716
+2 screens: Width=1036
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABMgAAANIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
